@@ -75,7 +75,19 @@ void loop() {
 };
 
 
-
+/*
+MEANINGS OF VALUES OF 'val':
+‘1’ = BULB 1 ON
+‘2’ = BULB 2 ON
+‘3’ = BULB 3 ON
+‘4’ = BULB 4 ON
+‘A’ = BULB 1 OFF
+‘B’ = BULB 2 OFF
+‘C’ = BULB 3 OFF
+‘D’ = BULB 4 OFF
+‘9’ = ALL BULBS ON
+‘0’ = ALL BULBS OFF
+*/
   
 
   
